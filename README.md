@@ -1,4 +1,4 @@
-This program is an application of a concept that we recently learned in MTH419
+This program is an application of a concept that we recently learned in MTH419.
 
 "The Fundamental Theorem of Cyclic Groups" : 
 - Every subgroup of a cyclic group is cyclic
